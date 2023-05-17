@@ -1,3 +1,2 @@
 # Epoca 
-
-Alguna descripción interesante
+Some interesting description for this project
